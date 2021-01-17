@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#script by Amaldeep <amaldeeppjcoc1@gmail.com>
+
+
 yum_clean_cache()
 {
         yum clean all
